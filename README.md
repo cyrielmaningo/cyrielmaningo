@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World, I'm Cyriel Maningo, a Student from University of Cebu 👋🏼:
-👨🏼‍🎓 studying Bachelor of Science in Information Technology at University of Cebu - Banilad Campus<br>👨🏼‍💻 working as a Shaiya Administrator since 2016 <br> just started out with my own private server. <i>[Admin]Sandwich</i>
+👨🏼‍🎓 Studying Bachelor of Science in Information Technology at University of Cebu - Banilad Campus<br>👨🏼‍💻 working as a Shaiya Administrator since 2016 <br> just started out with my own private server. <i>[Admin]Sandwich</i>
 
 
 # 💻 Tech Stack:
